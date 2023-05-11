@@ -1,2 +1,2 @@
 # nfactorial
-flappy bird on pygame
+use python main.py to run the game
